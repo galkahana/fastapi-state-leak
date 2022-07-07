@@ -1,0 +1,13 @@
+**/.venv
+.idea/*
+!.idea/runConfigurations/
+**/__pycache__
+**/*_pb2.py
+**/*egg-info
+.mypy_cache
+docker-stack.yml
+*.tar.gz
+*.pyc
+.coverage
+.pytest_cache
+**/pyx
